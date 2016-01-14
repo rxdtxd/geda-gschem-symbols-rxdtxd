@@ -127,7 +127,7 @@ pinnumber=1
 T 650 200 5 8 0 1 90 8 1
 pinseq=12
 T 645 500 9 8 1 1 180 0 1
-pinlabel=PL
+pinlabel=\_PL\_
 T 600 350 5 8 0 1 90 2 1
 pintype=in
 }
