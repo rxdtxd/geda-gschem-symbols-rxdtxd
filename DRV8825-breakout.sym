@@ -105,7 +105,7 @@ pinnumber=15
 T 1800 2150 5 8 0 1 180 8 1
 pinseq=15
 T 1645 2095 9 8 1 1 0 6 1
-pinlabel=STP
+pinlabel=STEP
 T 1650 2000 5 8 0 1 180 2 1
 pintype=in
 }
