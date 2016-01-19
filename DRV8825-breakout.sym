@@ -153,21 +153,17 @@ pinlabel=GND
 T 350 575 5 8 0 1 0 2 1
 pintype=pwr
 }
-T -5000 4640 5 10 0 0 0 0 1
-device=DRV8825-breakout
-T -5000 4440 5 10 0 0 0 0 1
-footprint=DIP16
+T 0 3840 5 10 0 0 0 0 1
+device=DRV8825_BREAKOUT
+T 0 3240 5 10 0 0 0 0 1
+footprint=DIL 25 600
 T 1500 2900 8 10 1 1 180 6 1
 refdes=U?
-T -5000 4850 5 10 0 0 0 0 1
+T 0 3650 5 10 0 0 0 0 1
 description=DRV8825 stepper motor driver breakout board (Pololu and clones)
-T -5000 5450 5 10 0 0 0 0 1
+T 0 3050 5 10 0 0 0 0 1
 numslots=0
-T -5000 5050 5 10 0 0 0 0 1
-net=Vcc:16
-T -5000 5250 5 10 0 0 0 0 1
-net=GND:8
-T -5000 5650 5 10 0 0 0 0 1
+T 0 3450 5 10 0 0 0 0 1
 documentation=https://www.pololu.com/product/2133
 P 2000 2400 1700 2400 1 0 0
 {
