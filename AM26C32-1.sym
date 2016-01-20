@@ -171,7 +171,7 @@ net=GND:8
 T 1200 4160 9 10 1 0 180 0 1
 AM26C32
 T 300 5350 5 10 0 0 0 0 1
-documentation=http://www.ti.com/lit/ds/symlink/am26c31.pdf
+documentation=http://www.ti.com/lit/ds/symlink/am26c32.pdf
 P 2000 3800 1700 3800 1 0 0
 {
 T 1795 3845 5 8 1 1 0 0 1
