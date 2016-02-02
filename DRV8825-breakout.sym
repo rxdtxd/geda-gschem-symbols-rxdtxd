@@ -156,7 +156,7 @@ pintype=pwr
 T 0 3840 5 10 0 0 0 0 1
 device=DRV8825_BREAKOUT
 T 0 3240 5 10 0 0 0 0 1
-footprint=DIL 25 600
+footprint=DIP16_500.fp
 T 1500 2900 8 10 1 1 180 6 1
 refdes=U?
 T 0 3650 5 10 0 0 0 0 1
